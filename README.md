@@ -9,9 +9,9 @@ discografía y su impacto en la industria musical.
 ##### sudo chmod u+x Alejo_Script.sh
 
 ###### Ejecuta el script
-`
+```
 sudo ./Alejo_Script.sh
-`
+```
 
 
 ## Comandos que ejecuta Script "Alejo_Script.sh"
