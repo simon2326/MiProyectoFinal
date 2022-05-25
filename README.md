@@ -10,7 +10,7 @@ discografía y su impacto en la industria musical.
 
 ### Comandos que ejecuta Script "Alejo_Script.sh"
 ###### Actualiza los paquetes.
-##### apt update
+apt update
 
 ###### Instala Docker, para poder crear el contenedor.
 ##### apt install docker-compose -y
