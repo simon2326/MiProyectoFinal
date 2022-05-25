@@ -3,7 +3,7 @@
 Mi Proyecto Final es un portal WiKi sobre mi artista favorita (Taylor Swift), 
 que incluye con algunos datos generales de su vida y carrera artística, su 
 discografía y su impacto en la industria musical.
-
+##### 
 
 ## ¿Qué comandos se deben de ejecutar para el correcto uso del script?
 - sudo chmod u+x Alejo_Script.sh
