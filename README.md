@@ -5,5 +5,5 @@ que incluye con algunos datos generales de su vida y carrera artística, su
 discografía y su impacto en la industria musical.
 
 ## ¿Qué comandos se deben de ejecutar?
-- sudo chmod u+x Alejo's_Script.sh
-- sudo ./Alejo's_Script.sh
+- sudo chmod u+x Alejo_Script.sh
+- sudo ./Alejo_Script.sh
