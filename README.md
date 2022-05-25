@@ -9,23 +9,23 @@ discografía y su impacto en la industria musical.
 - sudo ./Alejo_Script.sh
 
 ### Comandos que ejecuta Script "Alejo_Script.sh"
-apt update
-##### Actualiza los paquetes.
+##### - apt update
+###### Actualiza los paquetes.
 
-- apt install docker-compose -y
-##### Instala Docker, para poder crear el contenedor.
+##### - apt install docker-compose -y
+###### Instala Docker, para poder crear el contenedor.
 
-- apt install git-core -y
-##### Insata Git, para poder manejar repositorios de git.
+##### - apt install git-core -y
+###### Insata Git, para poder manejar repositorios de git.
 
-- cd /home/
-##### Se translada de ubicación al home.
+##### - cd /home/
+###### Se translada de ubicación al home.
 
-- git clone https://github.com/alejolondonm/MiProyectoFinal.git
-##### Clona todos los archivos y carpetas del repositorio que responde a esa URL.
+##### - git clone https://github.com/alejolondonm/MiProyectoFinal.git
+###### Clona todos los archivos y carpetas del repositorio que responde a esa URL.
 
-- docker build -t mipagina:v1 MiProyectoFinal/
-##### Construye la imagen, como plantilla para crear el contenedor.
+##### - docker build -t mipagina:v1 MiProyectoFinal/
+###### Construye la imagen, como plantilla para crear el contenedor.
 
-- docker run -d -p 80:80 mipagina:v1 apachectl -D FOREGROUND
-##### Crea el contenedor y lo enciende.
+##### - docker run -d -p 80:80 mipagina:v1 apachectl -D FOREGROUND
+###### Crea el contenedor y lo enciende.
